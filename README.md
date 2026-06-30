@@ -234,55 +234,6 @@ This analysis helps answer questions such as:
 
 ---
 
-## Project Structure
-
-```
-Superstore-EDA/
-│
-├── analysis.ipynb
-├── Superstore.csv
-├── README.md
-└── images/ (Optional)
-```
-
----
-
-## How to Run
-
-1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-2. Install dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-3. Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-4. Run all notebook cells.
-
----
-
-## Future Improvements
-
-- Interactive dashboards using Plotly
-- Power BI Dashboard
-- Tableau Dashboard
-- Correlation Heatmap
-- Customer Lifetime Value (CLV)
-- Profit Margin Analysis
-- Forecasting using Time Series Models
-
----
-
 ## Learning Outcomes
 
 Through this project, you will learn:
